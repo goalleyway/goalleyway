@@ -1,0 +1,14 @@
+# Site settings
+title: Go Alleyway
+email: go.alleyway@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+    This website is my personal blog where I upload and organize photos for fun.
+baseurl: ""
+url: "https://goalleyway.github.io"
+twitter_username: go.alleyway
+github_username:  go.alleyway
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
